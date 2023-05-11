@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week04DateTime</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="textviewDislay">TextView</string>
+    <string name="textviewDisplay">TextView</string>
+    <string name="buttonDisplayTime">Button</string>
+    <string name="buttonDisplayDate">Button</string>
+</resources>
